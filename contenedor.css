@@ -1,0 +1,68 @@
+.contenedor{
+    text-align: center;
+    background-color:white;
+    color: black;
+    padding-bottom: 2%;
+    width: 25%;
+    max-width: 75%;
+    align-content: center; 
+text-align: center;
+     padding-bottom: 3%;
+    padding-left: 4%;
+    padding-right: 5%;
+    margin-bottom: 4%;
+    margin-left: -2%;
+    margin-right: 4%;
+    margin-top: 4%;
+    border: solid;
+    border-bottom-left-radius: 42%;
+    border-bottom-right-radius: 42%;
+    border-top-left-radius: 42%;
+    border-top-right-radius: 42%;
+}
+.marcos{
+ text-align: center;
+    padding-bottom: 2%;
+    width: 25%;
+    max-width: 75%;
+    align-content: center;
+    text-align: center;
+    padding-bottom: 27%;
+        padding-left: 10%;
+    padding-right: 1%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 4%;
+    margin-top: 4%;
+    border: none;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
+.con{
+     text-align: center;
+     
+    color: black;
+    padding-bottom: 2%;
+    width: 18%;
+    max-width: 50%;
+    align-content: center; 
+
+     padding: 1%; 
+    margin-bottom: -2%;
+    margin-left: 2%;
+    margin-right: 1%;
+    margin-top: 2%;
+    border: solid;
+    border-bottom-left-radius: 60%;
+    border-bottom-right-radius: 60%;
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+     background: linear-gradient(red,white,red);
+
+}
+.text{
+     font-family: 'lobster',cursive;
+    font-size: 87%;
+}
